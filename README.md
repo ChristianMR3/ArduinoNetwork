@@ -9,11 +9,12 @@ Practica Final
 Arduino Networking
 
 Realizado por:
+
 Christian Moreno Ramirez
 
 Juan Pablo Barroso Hernández.
 
--Materiales: 🔧
+# Materiales: 🔧
 
  -1 Protoboard.
  
@@ -30,7 +31,7 @@ Juan Pablo Barroso Hernández.
  -1 regulador de voltaje(ya que el ESP8266 trabaja solo con 3.66v).
  
 
-Requisitos
+# Requisitos
 Programas necesarios📋
 
  -El Arduino IDE el cual se puede descargar de la pagina oficial: Pagina de Arduino.
@@ -69,7 +70,6 @@ Buscamos Adafruit y la seleccinamos
 Vamos a seleccionar nuestro Feeds creado con anterioridad y le damos un valor de 1, con el cuál se identificara la instrucción en Arduino.
 ![ifttt7](https://user-images.githubusercontent.com/44387203/49811855-bc556680-fd29-11e8-9bdf-54d7c8cc766c.png)
 
-
 Repetimos los pasos para crear los diferentes casos que vamos a usar.
 Serian 4 casos:
   -Encender luces
@@ -88,10 +88,10 @@ En esta parte podemos visualizar la fecha, hora y lo que ha recibido nuestro Fee
 Si le deciomos al asistente de google por medo de voz "encender luces" se enciende el led(tambein se puede hecer mediante escritura) 
 ![20181211_091055](https://user-images.githubusercontent.com/43175659/49813407-01c76300-fd2d-11e8-89f3-7a3c0ec84c93.jpg)
 
-Si le deciomos al asistente de google por medo de voz "temperatura" nos muestra la temperatura en pantalla(tambein se puede hecer mediante escritura) 
+Si le deciomos al asistente de google por medo de voz "humedad" nos muestra la temperatura en pantalla(tambein se puede hecer mediante escritura) 
 ![20181211_091200](https://user-images.githubusercontent.com/43175659/49813519-376c4c00-fd2d-11e8-99da-1b9b9ebeda45.jpg)
 
-Si le deciomos al asistente de google por medo de voz "Humedad" nos muestra la humedad en pantalla(tambein se puede hecer mediante escritura) 
+Si le deciomos al asistente de google por medo de voz "temperatura" nos muestra la humedad en pantalla(tambein se puede hecer mediante escritura) 
 ![20181211_091128](https://user-images.githubusercontent.com/43175659/49813534-3fc48700-fd2d-11e8-8e18-3aff817ba708.jpg)
 
 
