@@ -14,6 +14,7 @@ Christian Moreno Ramirez
 Juan Pablo Barroso Hernández.
 
 -Materiales: 🔧
+
  -1 Protoboard.
  
  -1 Arduino UNO (o cualquier otro).
@@ -31,10 +32,15 @@ Juan Pablo Barroso Hernández.
 
 Requisitos
 Programas necesarios📋
- -El Arduino IDE el cual se puede descargar de la pagina oficial: Pagina de Arduino
- -Los materiales descritos prebiamente
+
+ -El Arduino IDE el cual se puede descargar de la pagina oficial: Pagina de Arduino.
+ 
+ -Los materiales descritos prebiamente.
+ 
  -una cuenta en https://ifttt.com
+ 
  -una cuenta en https://io.adafruit.com
+ 
 
 Descripcion del Proyecto
 
