@@ -14,6 +14,14 @@ Christian Moreno Ramirez
 
 Juan Pablo Barroso Hernández.
 
+# Desarrollo
+la aplicaion se conecta atravez de internet por medio del ESP8266 la aplicaicon utiliza el asistente de google
+por la cual se le dan comandos de voz y realiza acciones como encender luces mostrar la temperatura y la humedad
+(estos comandos tambien pueden ser escritos)
+la conexion se hace de la siguiente manera ESP8266 se conecta a internet y despues al servidor intermediario 
+de adafruit este funciona para enviar los datos de la Ifttt que es donde se configura el asistente de google y envia 
+los datos a la placa. Mas abajo se desbribe como se hace la conexion.
+
 # Materiales: 🔧
 
  -1 Protoboard.
