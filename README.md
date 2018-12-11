@@ -13,23 +13,21 @@ Christian Moreno Ramirez
 
 Juan Pablo Barroso Hernández
 
-Materiales: 🔧
-
-1 Protoboard.
-1 Arduino UNO (o cualquier otro).
-2 DTH11.
-2 resistencias (330 ohms).
-1 LED
-1 ESP8266 
-1 regulador de voltaje(ya que el ESP8266 trabaja solo con 3.66v).
+-Materiales: 🔧
+ -1 Protoboard.
+ -1 Arduino UNO (o cualquier otro).
+ -2 DTH11.
+ -2 resistencias (330 ohms).
+ -1 LED
+ -1 ESP8266 
+ -1 regulador de voltaje(ya que el ESP8266 trabaja solo con 3.66v).
 
 Requisitos
 Programas necesarios📋
-
-El Arduino IDE el cual se puede descargar de la pagina oficial: Pagina de Arduino
-Los materiales descritos prebiamente
-una cuenta en https://ifttt.com
-una cuenta en https://io.adafruit.com
+ -El Arduino IDE el cual se puede descargar de la pagina oficial: Pagina de Arduino
+ -Los materiales descritos prebiamente
+ -una cuenta en https://ifttt.com
+ -una cuenta en https://io.adafruit.com
 
 Descripcion del Proyecto
 
