@@ -14,6 +14,7 @@ Christian Moreno Ramirez
 Juan Pablo Barroso Hernández
 
 Materiales: 🔧
+
 1 Protoboard.
 1 Arduino UNO (o cualquier otro).
 2 DTH11.
@@ -24,6 +25,7 @@ Materiales: 🔧
 
 Requisitos
 Programas necesarios📋
+
 El Arduino IDE el cual se puede descargar de la pagina oficial: Pagina de Arduino
 Los materiales descritos prebiamente
 una cuenta en https://ifttt.com
