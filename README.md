@@ -83,3 +83,18 @@ Serian 4 casos:
 En esta parte podemos visualizar la fecha, hora y lo que ha recibido nuestro Feeds test1.
 ![adafruit3](https://user-images.githubusercontent.com/44387203/49811598-3802e380-fd29-11e8-9475-d6eb04dcff5f.png)
 
+
+# RESULTADOS
+Si le deciomos al asistente de google por medo de voz "encender luces" se enciende el led(tambein se puede hecer mediante escritura) 
+![20181211_091055](https://user-images.githubusercontent.com/43175659/49813407-01c76300-fd2d-11e8-89f3-7a3c0ec84c93.jpg)
+
+Si le deciomos al asistente de google por medo de voz "temperatura" nos muestra la temperatura en pantalla(tambein se puede hecer mediante escritura) 
+![20181211_091200](https://user-images.githubusercontent.com/43175659/49813519-376c4c00-fd2d-11e8-99da-1b9b9ebeda45.jpg)
+
+Si le deciomos al asistente de google por medo de voz "Humedad" nos muestra la humedad en pantalla(tambein se puede hecer mediante escritura) 
+![20181211_091128](https://user-images.githubusercontent.com/43175659/49813534-3fc48700-fd2d-11e8-8e18-3aff817ba708.jpg)
+
+
+
+
+
